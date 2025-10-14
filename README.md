@@ -1,6 +1,6 @@
 🌸 Mimos da Dany
 
-Mimos da Dany é um site desenvolvido para apresentar produtos personalizados de forma moderna, intuitiva e visualmente envolvente.
+Mimos da Dany é um site desenvolvido durante o meu aprendizado na graduação para apresentar produtos personalizados de forma moderna, intuitiva e visualmente envolvente.
 O projeto combina design leve com estrutura otimizada, entregando uma experiência fluida em qualquer dispositivo.
 
 🧭 Funcionalidades
@@ -35,6 +35,7 @@ Mimos_da_Dany/
 ├── proxy.js                   # Script auxiliar (rota de proxy, se necessário)
 └── node_modules/              # Dependências locais do projeto
 
+______________________________________________________________
 🚀 Deploy
 
 O site está hospedado no GitHub Pages e pode ser acessado em:
