@@ -464,11 +464,11 @@ jQuery(document).ready( function( $) {
 	function _masonry( container ) {
 
 		/* Gallery Grid */
-		$( '.gallery-grid' ).isotope({
-				itemSelector : '.gallery-grid-item',
-				transitionDuration: 0,
-		});
-		setTimeout( function(){ $( '.gallery-grid' ).isotope( 'layout' ) }, 3000);
+		//$( '.gallery-grid' ).isotope({
+				//itemSelector : '.gallery-grid-item',
+				//transitionDuration: 0,
+		//});
+		//setTimeout( function(){ $( '.gallery-grid' ).isotope( 'layout' ) }, 3000);
 
 	}
 

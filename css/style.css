@@ -1700,7 +1700,6 @@ body .scrollbar-thumb {
 .location-lista {
 	display: -ms-flexbox;
 	display: flex;
-	width: 350px;
 	-ms-flex-direction: column;
 	flex-direction: column;
 	-ms-flex-align: start;
@@ -1720,7 +1719,6 @@ body .scrollbar-thumb {
 	margin-bottom: 2px;
 }
 .chamada-name {
-	width: 100%;
 	text-overflow: ellipsis;
 	overflow: hidden;
 	white-space: nowrap;
@@ -2700,7 +2698,6 @@ COPILOT
 .gallery-grid-item {
 	padding: 0 10px 20px;
 	object-fit: cover;
-	text-align: justify;
 }
 
 
@@ -2716,6 +2713,7 @@ COPILOT
     clear: both;
     position: relative;
 }
+
 .gallery-mosaic .gallery-row {
     margin-bottom: 20px;
 }
@@ -2822,6 +2820,7 @@ COPILOT
 .gallery-mosaic .gallery-row .gallery-item.gallery-item-narrow:nth-child(2n+1) {
     clear: both;
 }
+
 @media (max-width:600px) {
     .gallery-mosaic .gallery-row .gallery-item.gallery-item-narrow {
         display: block;
@@ -6135,4 +6134,4 @@ body.at-top #header #logo {
   opacity: 0;
   pointer-events: none;
 }
-/* Single lista */
+
